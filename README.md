@@ -16,12 +16,17 @@ Bu projede, Firebase, Firebase Authentication ve Firebase Realtime Database kull
 
 ## Ekran Görüntüleri
 <div>
-  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/8aeb8996-8dfd-4a5c-b789-a8827e34b99d" alt="Giris Ekranı" width="250">
-  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/55aea03d-63a5-441b-9041-c0b473c2b73f" alt="Anasayfa" width="250">
-  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/ed0a7d47-e998-46df-87c1-adc956ee16a5" alt="silme" width="250">
+  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/0d81808a-79c1-47d4-870c-7b468cd2b81c" alt="Giris Ekranı" width="250">
+  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/54979b05-3ec7-40a9-a57a-66e922ea2979" alt="Anasayfa" width="250">
+  <img src="https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/3c9ed1e2-cb07-4e94-8981-56cace88f7c8" alt="silme" width="250">
+
 
 </div>
 
 
-https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/21fa88bd-2066-4129-ba03-146a1ecc8294
+
+
+
+https://github.com/FurkanUrhann/Firebase_Example_App/assets/130754219/02d1c8d1-8dfe-472a-b018-a2e115cb15ab
+
 
