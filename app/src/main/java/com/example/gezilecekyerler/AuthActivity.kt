@@ -74,16 +74,13 @@ class AuthActivity : AppCompatActivity() {
         auth.createUserWithEmailAndPassword(email, password)
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
-
-                    val intent = Intent(this, GeziAlanlariActivity::class.java)
-                    startActivity(intent)
-                    finish()
+                    Toast.makeText(this, "Kayıt başarılı!", Toast.LENGTH_SHORT).show()
                 } else {
-
                     Toast.makeText(this, "Kayıt başarısız!", Toast.LENGTH_SHORT).show()
                 }
             }
     }
+
 
     private fun resetPassword(email: String) {
         auth.sendPasswordResetEmail(email)
@@ -99,3 +96,4 @@ class AuthActivity : AppCompatActivity() {
     }
 
 }
+
