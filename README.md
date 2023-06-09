@@ -1,7 +1,7 @@
 # Firebase_Example_App
 Bu projede, Firebase, Firebase Authentication ve Firebase Realtime Database kullanımına örnek olabilecek bir uygulama yaptım. Uygulamada kullanıcı kaydı, kimlik doğrulama işlemleri ve şifre yenileme işlemi Authentication ile kontrol edilir. Uygulama içinde kullanıcılar, gezmek istedikleri veya gezdikleri yerleri Firebase Realtime Database ile kayıt edebilir veya silebilir.
 
-# Kütüphaneler ve Özellikler
+## Kütüphaneler ve Özellikler
 
 <ul>
   <li>Firebase Authentication</li>
