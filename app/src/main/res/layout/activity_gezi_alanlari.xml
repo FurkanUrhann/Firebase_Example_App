@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="BAŞLIK" />
+
+  <EditText
+      android:id="@+id/baslikEditText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Başlık giriniz" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="ŞEHİR" />
+
+  <EditText
+      android:id="@+id/sehirEditText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Şehir giriniz" />
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="NOTLAR" />
+
+  <EditText
+      android:id="@+id/notlarEditText"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:hint="Notlar giriniz" />
+
+  <Button
+      android:id="@+id/addButton"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:backgroundTint="#F44336"
+      android:onClick="myButtonClick"
+      android:text="Ekle" />
+
+    <ListView
+    android:id="@+id/geziAlanlariListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:divider="@android:color/darker_gray"
+    android:dividerHeight="1dp"
+    android:listSelector="@android:color/transparent"
+    android:padding="8dp"
+    android:clipToPadding="false"
+    android:scrollbarStyle="outsideOverlay"
+    android:scrollbarThumbVertical="@drawable/scrollbar_thumb"
+    android:scrollbarTrackVertical="@drawable/scrollbar_track"
+    />
+
+</LinearLayout>
+
+
+
+
+
